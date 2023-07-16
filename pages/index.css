@@ -1,0 +1,53 @@
+.astronaut {
+  animation-name: mymove;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  bottom: 500px;
+}
+
+.first {
+  margin-top: 90px;
+}
+
+.socials {
+  font-size:2rem;
+  margin-bottom:5rem;
+}
+
+.home {
+  columns:2;
+  display: flex;
+}
+
+@keyframes mymove {
+  0% {
+    transform: translateY(-10px)
+  }
+  100% {
+    transform: translateY(10px)
+  };
+}
+
+.titulo-secao {
+  z-index: 99;
+}
+
+
+
+@media screen and (max-width: 770px)
+{
+  .home
+   {
+    columns:1;
+    display: block;
+    text-align: center;
+   }
+
+   .astronaut {
+    min-width: 0!important;
+    min-height: 0!important;
+    width: 250px!important;
+    height: 250px!important;
+   }
+}

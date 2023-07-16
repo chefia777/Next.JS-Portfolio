@@ -1,0 +1,125 @@
+{
+  "name": "Ariel",
+  "headerTaglineOne": "ARIEL ",
+  "headerTaglineTwo": "Desenvolvedor",
+  "headerTaglineThree": "WEB",
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/chefia777"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/ariel-robinson-moreira/"
+    },
+    { "id": "5", "title": "Email", "link": "mailto:ariel_robinson_moreira@hotmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Who's that Pokemón?",
+      "description": "Web Design, API",
+      "imageSrc": "/images/poke1.png",
+      "imageSrc2": "/images/poke2.png",
+      "url": "https://chefia777.github.io/Who-s-that-Pokemon-/"
+    },
+    {
+      "id": "2",
+      "title": "Other projects!",
+      "description": "Check out all of my projects",
+      "imageSrc": "/images/proj2.png",
+      "imageSrc2":"/images/proj2.png",
+      "url": "https://github.com/chefia777"
+    }
+  ],
+  "technologies": [
+    {
+      "id": "1",
+      "title": "HTML5",
+      "description": "Web Design, API",
+      "imageSrc": "/images/html.png",
+      "imageSrc2": "/images/html.png",
+      "url": "https://developer.mozilla.org/pt-BR/docs/Web/HTML"
+    },
+    {
+      "id": "2",
+      "title": "Javascript",
+      "description": "Check out all of my projects",
+      "imageSrc": "/images/javascript.png",
+      "imageSrc2":"/images/javascript.png",
+      "url": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+    },
+    {
+      "id": "1",
+      "title": "CSS3",
+      "description": "Web Design, API",
+      "imageSrc": "/images/css.png",
+      "imageSrc2": "/images/css.png",
+      "url": "https://developer.mozilla.org/pt-BR/docs/Web/CSS"
+    },
+    {
+      "id": "1",
+      "title": "React",
+      "description": "Web Design, API",
+      "imageSrc": "/images/react.png",
+      "imageSrc2": "/images/react.png",
+      "url": "https://react.dev/"
+    },
+    {
+      "id": "1",
+      "title": "Next.JS",
+      "description": "Web Design, API",
+      "imageSrc": "/images/next.png",
+      "imageSrc2": "/images/next.png",
+      "url": "https://nextjs.org/"
+    },
+    {
+      "id": "1",
+      "title": "Python",
+      "description": "Web Design, API",
+      "imageSrc": "/images/python.png",
+      "imageSrc2": "/images/python.png",
+      "url": "https://www.python.org/"
+    },
+    {
+      "id": "1",
+      "title": "Tailwind CSS",
+      "description": "Web Design, API",
+      "imageSrc": "/images/tailwind.png",
+      "imageSrc2": "/images/tailwind.png",
+      "url": "https://tailwindcss.com/"
+    }
+  ],
+  "aboutpara": "Olá! Eu sou o Ariel, um entusiasta apaixonado por tecnologia e inovação. Meu foco principal está na área de desenvolvimento web e programação. Com habilidades sólidas em HTML, CSS e JavaScript, posso criar interfaces e experiências de usuário envolventes e responsivas. Além disso, tenho experiência em trabalhar com a biblioteca React e no framework Next.js, o que me permite desenvolver aplicações web modernas e eficientes. Também tenho conhecimentos em Python. Meu objetivo é sempre estar atualizado com as últimas tendências e melhores práticas de desenvolvimento, buscando constantemente aprender e aprimorar minhas habilidades. Este portfólio é uma amostra do meu trabalho e dos projetos que estive envolvido. Aqui, você encontrará demonstrações dos meus conhecimentos em HTML, CSS, JavaScript, React, Next.js e Python. Se você está em busca de um desenvolvedor comprometido, criativo e entusiasmado, estou pronto para contribuir com o sucesso do seu projeto. Vamos trabalhar juntos para criar soluções inovadoras e impactantes. Agradeço por visitar o meu portfólio. Caso tenha alguma dúvida ou queira entrar em contato, sinta-se à vontade para me enviar uma mensagem. Estou animado para embarcar em novos desafios e ser parte do seu time.",
+  "resume": {
+    "fullName": "Ariel Robinson Moreira",
+    "tagline": "Engenheiro Mecânico & Desenvolvedor Web",
+    "description": "Olá! Meu nome é Ariel Robinson Moreira e sou um profissional apaixonado por engenharia mecânica e desenvolvimento web. Meu objetivo é unir minha expertise nessas áreas para criar soluções inovadoras e impactantes.",
+    "experiences": [
+    {
+    "id": "1",
+    "dates": "Fevereiro 2021 - Julho 2022",
+    "type": "Estágio",
+    "position": "Estagiário de Engenharia na Braskem",
+    "bullets": "Contribuí para projetos de engenharia, Ganhei o prêmio Destaque na Braskem em reconhecimento ao meu trabalho"
+    }
+    ],
+    "education": {
+    "universityName": "UNISINOS",
+    "universityName2": "Estácio",
+    "universityDate": "Formado em Engenharia Mecânica",
+    "universityDate2": "Graduando em Análise e Desenvolvimento de Sistemas",
+    "universityPara": "Possuo formação em Engenharia Mecânica pela UNISINOS, onde adquiri uma base sólida em princípios de engenharia e habilidades de resolução de problemas. Durante minha trajetória acadêmica, descobri minha paixão pelo desenvolvimento web e decidi complementar minha formação com estudos em Análise e Desenvolvimento de Sistemas.",
+    "universityPara2": "Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, onde tenho a oportunidade de aprimorar minhas habilidades em programação, banco de dados e desenvolvimento de software. Meu interesse nessa área surgiu enquanto eu me graduava em Engenharia Mecânica e percebi que a tecnologia tinha um papel crucial em diversas indústrias e campos de atuação."
+    
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python"],
+    "frameworks": ["React", "Typescript", "NodeJs", "Next.js"],
+    "others": ["Tailwind CSS", "SASS", "SCSS", "Bootstrap"]
+    }
+  }
